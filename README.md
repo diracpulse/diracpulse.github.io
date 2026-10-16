@@ -3,6 +3,7 @@
 ## Photography
 I like taking photos sometimes. I will post some of them here:
 ### A study of loneliness
+This was a lonely Sunday evening last summer, in the suburbs of Munich. 
 ![Zero]({{ '/photos/*-0.jpg' | relative_url }})
 ![Uno]({{ '/photos/*-1.jpg' | relative_url }})
 ![Due]({{ '/photos/*-2.jpg' | relative_url }})
@@ -13,3 +14,4 @@ I like taking photos sometimes. I will post some of them here:
 ![Sette]({{ '/photos/*-7.jpg' | relative_url }})
 ![Otto]({{ '/photos/*-8.jpg' | relative_url }})
 ![Nove]({{ '/photos/*-9.jpg' | relative_url }})
+![Dieci]({{ '/photos/*-10.jpg' | relative_url }})
