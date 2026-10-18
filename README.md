@@ -1,9 +1,11 @@
 # diracpulse.github.io
 
 ## Photography
-I like taking photos sometimes. I will post some of them here:
+I like taking photos. I will post some of them here:
+
 ### A study of loneliness
-This was a lonely Sunday evening last summer, in the suburbs of Munich. 
+A lonely summer Sunday evening, in the suburbs of Munich.
+
 ![Zero]({{ '/photos/*-0.jpg' | relative_url }})
 ![Uno]({{ '/photos/*-1.jpg' | relative_url }})
 ![Due]({{ '/photos/*-2.jpg' | relative_url }})
