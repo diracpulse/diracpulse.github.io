@@ -21,16 +21,16 @@ A lonely summer Sunday evening, in the suburbs of Munich.
 ### A summerly field trip
 In the summer of '25 I went on a walk in the fields behind my home.
 
-![Zero]({{ '/photos/field_walk_25/field_1.JPG' | relative_url }})
-![Uno]({{ '/photos/field_walk_25/field_2.JPG' | relative_url }})
-![Due]({{ '/photos/field_walk_25/field_3.JPG' | relative_url }})
-![Tre]({{ '/photos/field_walk_25/field_4.JPG' | relative_url }})
-![Quattro]({{ '/photos/field_walk_25/field_5.JPG' | relative_url }})
-![Cinque]({{ '/photos/field_walk_25/field_6.JPG' | relative_url }})
-![Sei]({{ '/photos/field_walk_25/field_7.JPG' | relative_url }})
-![Sette]({{ '/photos/field_walk_25/train_1.JPG' | relative_url }})
-![Otto]({{ '/photos/field_walk_25/train_2.JPG' | relative_url }})
-![Nove]({{ '/photos/field_walk_25/train_3.JPG' | relative_url }})
+![Zero]({{ '/photos/field_walk_summer_25/field_1.JPG' | relative_url }})
+![Uno]({{ '/photos/field_walk_summer_25/field_2.JPG' | relative_url }})
+![Due]({{ '/photos/field_walk_summer_25/field_3.JPG' | relative_url }})
+![Tre]({{ '/photos/field_walk_summer_25/field_4.JPG' | relative_url }})
+![Quattro]({{ '/photos/field_walk_summer_25/field_5.JPG' | relative_url }})
+![Cinque]({{ '/photos/field_walk_summer_25/field_6.JPG' | relative_url }})
+![Sei]({{ '/photos/field_walk_summer_25/field_7.JPG' | relative_url }})
+![Sette]({{ '/photos/field_walk_summer_25/train_1.JPG' | relative_url }})
+![Otto]({{ '/photos/field_walk_summer_25/train_2.JPG' | relative_url }})
+![Nove]({{ '/photos/field_walk_summer_25/train_3.JPG' | relative_url }})
 
 ### Self portraits
 I do not like the concept behind social media. Maybe I am not able to understand what they are for. Anyway, here are some photos of me.
